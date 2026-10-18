@@ -1,0 +1,15 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+dist/
+releases/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache
+.vs/
